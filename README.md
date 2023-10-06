@@ -5,7 +5,7 @@
 
 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=bi3ll69&show_icons=true&theme=radical)
+![Edson GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsonadianorafael&show_icons=true&theme=radical)
 
 ## Tecnologias que trabalho!
 
